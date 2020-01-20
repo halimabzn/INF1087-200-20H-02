@@ -33,3 +33,4 @@ Administration d'infrastructure informatique 1
 | Titre | Description |
 |-------|-------------|
 | [Docker In Action](https://www.manning.com/books/docker-in-action-second-edition) | Docker In action  <sup>2nd ed</sup>|
+| [Microsoft Containers](https://azure.microsoft.com/en-us/product-categories/containers) | Livre Pakt
