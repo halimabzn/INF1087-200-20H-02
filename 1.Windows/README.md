@@ -18,4 +18,9 @@ https://mcpmag.com/articles/2018/12/13/configure-wds-using-powershell.aspx
 https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/nested-virtualization
 
 
+### :m: VHDX
+
+https://www.altaro.com/hyper-v/understanding-working-vhdx-files/
+
+
 
