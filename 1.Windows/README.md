@@ -1,6 +1,6 @@
 # 1. Windows
 
-[Participation](Participation.md)
+## [Participation](Participation.md)
 
 https://github.com/docker/labs/tree/master/windows
 
