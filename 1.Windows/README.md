@@ -13,4 +13,9 @@ https://www.thomasmaurer.ch/2012/04/replace-netsh-with-windows-powershell-basic-
 https://mcpmag.com/articles/2018/12/13/configure-wds-using-powershell.aspx
 
 
+### :m: Nested Virtualization
+
+https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/nested-virtualization
+
+
 
