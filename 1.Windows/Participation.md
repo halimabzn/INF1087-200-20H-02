@@ -21,7 +21,9 @@
 
 Sous @PowerShell
 
-#### :one: Entrer la commande ci-dessous, Taper Enter et Donner B0r34l$ comme mot de passe
+#### :one: Entrer la commande ci-dessous, 
+
+* Taper Enter et Donner `B0r34l$` comme mot de passe
 
 ```
 PS > $Password = Read-Host -AsSecureString 
