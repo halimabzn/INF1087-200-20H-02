@@ -3,6 +3,11 @@ https://github.com/docker/labs/tree/master/windows
 https://www.docker.com/blog/build-your-first-docker-windows-server-container/
 
 
+
+### :m: PowerShell
+
+https://ss64.com/ps/
+
 ### :m: Net Shell vs Psh basic network cmdlets
 
 https://www.thomasmaurer.ch/2012/04/replace-netsh-with-windows-powershell-basic-network-cmdlets/
