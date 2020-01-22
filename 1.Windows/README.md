@@ -28,4 +28,6 @@ https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/ne
 https://www.altaro.com/hyper-v/understanding-working-vhdx-files/
 
 
+# Références:
 
+https://4sysops.com/wiki/free-microsoft-ebooks-the/
