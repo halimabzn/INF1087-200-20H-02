@@ -34,3 +34,8 @@ PS > New-LocalUser "Brice" -Password $Password -FullName "Brice" -Description "P
 ```
 PS > Add-LocalGroupMember -Group "Administrators" -Member "Brice"
 ```
+
+
+# Références
+
+https://pureinfotech.com/create-new-user-account-powershell-windows-10/
