@@ -17,14 +17,19 @@
 | 12   | 300113775 | Brice@10.13.237.77      |:x:               |:x:               |
 
 
+#### :one: Entrer la commande ci-dessous, Taper Enter et Donner B0r34l$ comme mot de passe
 
 ```
-PS > $Password = Read-Host -AsSecureString # Donner B0r34l$ comme mot de passe et taper Enter
+PS > $Password = Read-Host -AsSecureString 
 ```
+
+#### :two: Créer l'utilisateur
 
 ```
 PS > New-LocalUser "Brice" -Password $Password -FullName "Brice" -Description "Prof. "
 ```
+
+#### :three: Donner les droits administrateurs à l'utilisateur
 
 ```
 PS > Add-LocalGroupMember -Group "Administrators" -Member "Brice"
