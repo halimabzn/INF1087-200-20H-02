@@ -17,6 +17,10 @@
 | 12   | 300113775 | Brice@10.13.237.77      |:x:               |:x:               |
 
 
+# Vérification Prof
+
+Sous @PowerShell
+
 #### :one: Entrer la commande ci-dessous, Taper Enter et Donner B0r34l$ comme mot de passe
 
 ```
