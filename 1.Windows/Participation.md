@@ -19,7 +19,7 @@
 
 
 ```
-PS > $Password = Read-Host -AsSecureString
+PS > $Password = Read-Host -AsSecureString # Donner B0r34l$ comme mot de passe et taper Enter
 ```
 
 ```
