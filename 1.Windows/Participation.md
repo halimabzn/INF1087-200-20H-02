@@ -15,3 +15,17 @@
 | 10   | 300112017 | pi@10.13.237.60         |:x:               |:x:               |
 | 11   | 300112917 | pi@10.13.237.79         |:x:               |:x:               |
 | 12   | 300113775 | pi@10.13.237.77         |:x:               |:x:               |
+
+
+
+```
+PS > $Password = Read-Host -AsSecureString
+```
+
+```
+PS > New-LocalUser "Brice" -Password $Password -FullName "Brice" -Description "Prof. "
+```
+
+```
+PS > Add-LocalGroupMember -Group "Administrators" -Member "Brice"
+```
