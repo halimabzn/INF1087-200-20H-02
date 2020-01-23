@@ -13,7 +13,7 @@
     
     Option pour booter la clé : 
       
-      * Master Boot Record (MBR) 
+      * Master Boot Record [MBR](https://github.com/CollegeBoreal/Tutoriels/tree/master/7.Microsoft/ISO) 
       
       * GUID Partition Table (GPT)
       
@@ -43,6 +43,9 @@
       
       soit 40% utilisé pour redondance pour `hot swap`
       
+   :pushpin: Installation de Windows 
+   
+     
     
     
    
