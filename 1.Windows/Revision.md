@@ -5,7 +5,7 @@
 
 * Installation sur Proliant GX
 
-  * Création de Clé USB:
+  :pushpin: Création de Clé USB:
    
     - Télécharger ISO sur Azure Education
     
@@ -18,6 +18,10 @@
       * GUID Partition Table (GPT)
       
       * Preboot Execution Environment (PXE)
+
+   * Trouble Shoot
+
+     [RedScreenOfDeath](https://github.com/CollegeBoreal/Laboratoires/blob/master/3202/proliant/TroubleShoot.md#pushpin-red-screen-of-death) 
        
     ISO Choisi ou suggéré
     
@@ -25,6 +29,6 @@
     
     - Windows `Hyper-V` Server 2019
     
-    
+   :pushpin:  
 
 
