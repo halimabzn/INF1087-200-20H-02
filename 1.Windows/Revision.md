@@ -45,6 +45,11 @@
       
    :pushpin: Installation de Windows 
    
+   
+      * Passe d'un écran à un autre
+      
+      
+   
      
     
     
