@@ -63,6 +63,38 @@
       - Mot de passe suit une `Politique de sécurité` - 
       
           Règle - Une Majuscule, Une Minuscule, un chiffre, un symbole ($,!) et une taille (6)
+          
+      - Fenetres de configurations: 
+      
+        * Script de configuration s'appelle `Sconfig.cmd`
+        
+        * $HOME directory de l'Administrateur : c:\Users\Administrator
+        
+        
+      - Script Configuration en réseau: (RDP - Remote Desktop)
+      
+          * Sélection de l'adaptateur réseau (il faut le brancher)
+      
+          * Changer les nom de la machine (Optionnel)
+          
+          * Changer la configuration du réseau (IP Statique/Masque/GW/DNS)
+          
+          * Enable RDP
+          
+          (Reboot)
+          
+ * Accès coté client
+ 
+    RDP:
+    
+    * Adresse IP
+    
+    * Nom
+    
+    * Mot de passe
+          
+          
+          
       
       
       
