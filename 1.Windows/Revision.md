@@ -35,9 +35,13 @@
     
     - RAID :five: exigences
     
-      formatter 3 disques minimum
+      formatter `3` disques minimum
       
+    - Créer des disques logiques
+    
+      soit 3 disques a 146Gb donne 438Gb au final en RAID5 273Gb approxivement 62% de capacité d'utilisation
       
+      soit 40% utilisé pour redondance pour `hot swap`
       
     
     
