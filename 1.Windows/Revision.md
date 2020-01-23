@@ -29,6 +29,18 @@
     
     - Windows `Hyper-V` Server 2019
     
-   :pushpin:  
+   :pushpin: [RAID](https://github.com/CollegeBoreal/Laboratoires/tree/master/3202/proliant/RAID)
+   
+    - Booter sur RAID Setup Utility `F8`
+    
+    - RAID :five: exigences
+    
+      formatter 3 disques minimum
+      
+      
+      
+    
+    
+   
 
 
