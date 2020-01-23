@@ -19,7 +19,7 @@
       
       * Preboot Execution Environment (PXE)
 
-   * Trouble Shoot quand boot unsuccessfull 
+   * Trouble Shoot quand boot unsuccessful
 
      [RedScreenOfDeath](https://github.com/CollegeBoreal/Laboratoires/blob/master/3202/proliant/TroubleShoot.md#pushpin-red-screen-of-death) 
        
