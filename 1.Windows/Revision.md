@@ -48,6 +48,25 @@
    
       * Passe d'un écran à un autre
       
+      - Configuration Language, Clavier et Format Temps Et Devises
+      
+      - Accepter la license 
+      
+      - choisir Upgrade ou Custom
+      
+      - Installation sur le disque (choix de formatter les partitions) - :warning: Boot disk on line
+      
+      - Déroulement de l'installation (puis reboot)
+      
+      - Demande le changement de mot de passe de l'administrateur - `Administrator`
+      
+      - Mot de passe suit une `Politique de sécurité` - Règle - Une Majuscule, Une Minuscule, un chiffre, un symbole ($,!) et une taille (6)
+      
+      
+      
+      
+      
+      
       
    
      
