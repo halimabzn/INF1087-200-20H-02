@@ -14,7 +14,7 @@
 | 09   | 300111766 | Brice@10.13.237.66      |:x:                  |:x:                |
 | 10   | 300112017 | Brice@10.13.237.60      |:heavy_check_mark: - Datacenter :desktop_computer: :key: |:x:               |
 | 11   | 300112917 | Brice@10.13.237.79      |:x:               |:x:               |
-| 12   | 300113775 | Brice@10.13.237.77      |:x:               |:x:               |
+| 12   | 300113775 | Brice@10.13.237.77      |:heavy_check_mark: - Hyper-V             |:x:               |
 
 
 # Vérification Prof
