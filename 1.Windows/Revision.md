@@ -60,7 +60,9 @@
       
       - Demande le changement de mot de passe de l'administrateur - `Administrator`
       
-      - Mot de passe suit une `Politique de sécurité` - Règle - Une Majuscule, Une Minuscule, un chiffre, un symbole ($,!) et une taille (6)
+      - Mot de passe suit une `Politique de sécurité` - 
+      
+          Règle - Une Majuscule, Une Minuscule, un chiffre, un symbole ($,!) et une taille (6)
       
       
       
