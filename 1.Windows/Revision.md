@@ -84,7 +84,12 @@ https://github.com/CollegeBoreal/Tutoriels/tree/master/7.Microsoft/servers/core
           * Enable RDP
           
           (Reboot)
-          
+
+
+### :o: Remote Desktop
+
+https://github.com/CollegeBoreal/Tutoriels/tree/master/7.Microsoft/servers/core#utilisation-a-distance
+
  * Accès coté client
  
     RDP:
