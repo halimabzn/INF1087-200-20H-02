@@ -1,7 +1,7 @@
 # Revision Test Windows
 
 
-:one: Installation
+## :one: Installation Proliant
 
 * Installation sur Proliant GX
 
@@ -42,8 +42,10 @@
       soit 3 disques a 146Gb donne 438Gb au final en RAID5 273Gb approxivement 62% de capacité d'utilisation
       
       soit 40% utilisé pour redondance pour `hot swap`
-      
-   :pushpin: Installation de Windows 
+
+## :two: Installation de Windows 
+
+https://github.com/CollegeBoreal/Tutoriels/tree/master/7.Microsoft/servers/core
    
    
       * Passe d'un écran à un autre
