@@ -3,8 +3,9 @@ Administration d'infrastructure informatique 1
 
 ## Devoirs
 
-| Date   |                     |     Commentaires                                                                         |
+| Date   | Titre               |     Commentaires                                                                         |
 |:------:|:--------------------|:-----------------------------------------------------------------------------------------|
+|31-01-20| [1.Windows](1.Windows/Participation.md) | Installation de Windows Server                                       |
 
 
 ## Déroulement de cours:
