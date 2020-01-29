@@ -1,7 +1,7 @@
 # Serveurs Windows
 
 
-|:hash:| :id:      | Utilisateur à remplacer | RDP                 | Docker Engine     | 
+|:hash:| :id:      | Utilisateur à remplacer | RDP                 | Docker Engine (Optionnel)    | 
 |------|-----------|-------------------------|-----------------------------------------|-------------------|
 | 01   | 300104524 | Brice@10.13.237.19      |:heavy_check_mark: - Hyper-V |:x:                |
 | 02   | 300104541 | Brice@10.13.237.41      |:heavy_check_mark: - Hyper-V |:x:                |
