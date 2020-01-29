@@ -32,15 +32,7 @@
      * Unified Extensible Firmware Interface (UEFI)
      
      [:bulb: BIOS vs UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)
-       
-  :pushpin: Boot
-  
-     * Basic Input Output System (BIOS)
-     
-     * Unified Extensible Firmware Interface (UEFI)
-     
-     [:bulb: BIOS vs UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)
-       
+              
     ISO Choisi ou suggéré
     
     - Windows Server 2019 - [Standard, Essential, Datacenter]
