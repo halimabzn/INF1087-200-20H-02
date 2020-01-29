@@ -53,7 +53,10 @@
       
       soit 40% utilisé pour redondance pour `hot swap`
       
-    :pushpin: 
+    :pushpin: Partition Types
+    
+    
+    ![image](images/PartitionTypes.png)
 
 ## :two: Installation de Windows 
 
