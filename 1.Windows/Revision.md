@@ -13,7 +13,7 @@
     
     Option pour booter la clé : 
       
-    * Master Boot Record [MBR](https://github.com/CollegeBoreal/Tutoriels/tree/master/7.Microsoft/servers/ISO) 
+    * Master Boot Record [(MBR)](https://github.com/CollegeBoreal/Tutoriels/tree/master/7.Microsoft/servers/ISO) 
 
     * GUID Partition Table (GPT)
 
