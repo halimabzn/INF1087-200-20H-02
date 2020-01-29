@@ -49,8 +49,8 @@ PS > Get-LocalGroupMember -Group "Administrators"
 
 ObjectClass Name                   PrincipalSource
 ----------- ----                   ---------------
-User        ANTALAHA\Administrator Local
-User        ANTALAHA\Brice         Local
+User        <SERVEUR>\Administrator Local
+User        <SERVEUR>\Brice         Local
 ```
 
 # Références
