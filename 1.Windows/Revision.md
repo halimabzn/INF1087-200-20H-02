@@ -9,11 +9,11 @@
    
     - Télécharger ISO sur Azure Education
     
-    Logicel de boot de clé USB ? (Rufus, UnetBooting)
+    Logicel de boot de clé USB ? ([Rufus](https://github.com/CollegeBoreal/Tutoriels/tree/master/7.Microsoft/servers/ISO), UnetBooting)
     
-    Option pour booter la clé : 
+    Option pour booter la clé : (Partition Scheme)
       
-    * Master Boot Record [(MBR)](https://github.com/CollegeBoreal/Tutoriels/tree/master/7.Microsoft/servers/ISO) 
+    * Master Boot Record [(MBR)](http://www.invoke-ir.com/2015/05/ontheforensictrail-part2.html) 
 
     * GUID Partition Table (GPT)
 
@@ -25,6 +25,14 @@
 
      [RedScreenOfDeath](https://github.com/CollegeBoreal/Laboratoires/blob/master/3202/proliant/TroubleShoot.md#pushpin-red-screen-of-death) 
      
+  :pushpin: Boot
+  
+     * Basic Input Output System (BIOS)
+     
+     * Unified Extensible Firmware Interface (UEFI)
+     
+     [:bulb: BIOS vs UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)
+       
   :pushpin: Boot
   
      * Basic Input Output System (BIOS)
