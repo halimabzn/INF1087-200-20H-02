@@ -15,7 +15,7 @@
       
     * Master Boot Record [(MBR)](http://www.invoke-ir.com/2015/05/ontheforensictrail-part2.html) 
 
-    * GUID Partition Table (GPT)
+    * GUID Partition Table (GPT) - 2 TB Disks
     
     [:bulb: GPT vs MBR](https://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive)
 
@@ -52,6 +52,8 @@
       soit 3 disques a 146Gb donne 438Gb au final en RAID5 273Gb approxivement 62% de capacité d'utilisation
       
       soit 40% utilisé pour redondance pour `hot swap`
+      
+    :pushpin: 
 
 ## :two: Installation de Windows 
 
