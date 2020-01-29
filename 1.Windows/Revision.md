@@ -19,7 +19,7 @@
 
     * Preboot Execution Environment (PXE)
     
-    [GPT vs MBR](https://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive)
+    [:bulb: GPT vs MBR](https://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive)
 
    * Trouble Shoot quand boot unsuccessful
 
@@ -31,7 +31,7 @@
      
      * Unified Extensible Firmware Interface (UEFI)
      
-     [BIOS vs UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)
+     [:bulb: BIOS vs UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)
        
     ISO Choisi ou suggéré
     
