@@ -18,10 +18,20 @@
     * GUID Partition Table (GPT)
 
     * Preboot Execution Environment (PXE)
+    
+    [GPT vs MBR](https://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive)
 
    * Trouble Shoot quand boot unsuccessful
 
      [RedScreenOfDeath](https://github.com/CollegeBoreal/Laboratoires/blob/master/3202/proliant/TroubleShoot.md#pushpin-red-screen-of-death) 
+     
+  :pushpin: Boot
+  
+     * Basic Input Output System (BIOS)
+     
+     * Unified Extensible Firmware Interface (UEFI)
+     
+     [BIOS vs UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)
        
     ISO Choisi ou suggéré
     
