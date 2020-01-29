@@ -41,6 +41,17 @@ PS > New-LocalUser "Brice" -Password $Password -FullName "Brice" -Description "P
 PS > Add-LocalGroupMember -Group "Administrators" -Member "Brice"
 ```
 
+#### :o: Verification
+
+
+```
+PS > Get-LocalGroupMember -Group "Administrators"
+
+ObjectClass Name                   PrincipalSource
+----------- ----                   ---------------
+User        ANTALAHA\Administrator Local
+User        ANTALAHA\Brice         Local
+```
 
 # Références
 
