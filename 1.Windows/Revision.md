@@ -13,11 +13,11 @@
     
     Option pour booter la clé : 
       
-      * Master Boot Record [MBR](https://github.com/CollegeBoreal/Tutoriels/tree/master/7.Microsoft/ISO) 
-      
-      * GUID Partition Table (GPT)
-      
-      * Preboot Execution Environment (PXE)
+    * Master Boot Record [MBR](https://github.com/CollegeBoreal/Tutoriels/tree/master/7.Microsoft/servers/ISO) 
+
+    * GUID Partition Table (GPT)
+
+    * Preboot Execution Environment (PXE)
 
    * Trouble Shoot quand boot unsuccessful
 
