@@ -94,6 +94,11 @@ https://github.com/CollegeBoreal/Tutoriels/tree/master/7.Microsoft/servers/core
           * Enable RDP
           
           (Reboot)
+          
+          
+   ## :x: Reset Proliant 
+   
+   https://serverfault.com/questions/662448/resetting-factory-defaults-hp-proliant-dl360-gen8
 
 
 ### :o: Remote Desktop
