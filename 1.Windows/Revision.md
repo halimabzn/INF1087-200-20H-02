@@ -16,8 +16,6 @@
     * Master Boot Record [(MBR)](http://www.invoke-ir.com/2015/05/ontheforensictrail-part2.html) 
 
     * GUID Partition Table (GPT)
-
-    * Preboot Execution Environment (PXE)
     
     [:bulb: GPT vs MBR](https://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive)
 
@@ -30,6 +28,8 @@
      * Basic Input Output System (BIOS)
      
      * Unified Extensible Firmware Interface (UEFI)
+     
+     * Preboot Execution Environment (PXE)
      
      [:bulb: BIOS vs UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)
               
