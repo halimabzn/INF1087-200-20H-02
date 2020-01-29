@@ -56,6 +56,15 @@ User        <SERVEUR>\Administrator Local
 User        <SERVEUR>\Brice         Local
 ```
 
+
+```
+PS > Get-ComputerInfo -Property "WindowsProductName"
+
+WindowsProductName
+------------------
+Hyper-V Server 2019
+```
+
 # Références
 
 https://pureinfotech.com/create-new-user-account-powershell-windows-10/
