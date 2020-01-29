@@ -3,7 +3,7 @@
 
 |:hash:| :id:      | Utilisateur à remplacer | RDP                 | Docker Engine     | 
 |------|-----------|-------------------------|---------------------|-------------------|
-| 01   | 300104524 | Brice@10.13.237.19      |:x:                  |:x:                |
+| 01   | 300104524 | Brice@10.13.237.19      |:heavy_check_mark: - Hyper-V |:x:                |
 | 02   | 300104541 | Brice@10.13.237.:o:     |:x:                  |:x:                |
 | 03   | 300106918 | Brice@10.13.237.18      |:warning:          - Datacenter :keyboard: :key: |:x:               |
 | 04   | 300107361 | Brice@10.13.237.99      |:heavy_check_mark: - Hyper-V             |:x:               |
