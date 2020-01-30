@@ -27,7 +27,9 @@
   
      * Basic Input Output System (BIOS)
      
-     * Unified Extensible Firmware Interface (UEFI)
+     * Unified Extensible Firmware Interface (UEFI) 
+     
+      - can boot from drives of 2.2 TB or larger—in fact, the theoretical limit is 9.4 zettabytes
      
      * Preboot Execution Environment (PXE)
      
