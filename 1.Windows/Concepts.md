@@ -29,6 +29,10 @@ https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/ne
 
 https://www.altaro.com/hyper-v/understanding-working-vhdx-files/
 
+### :m: Docker on Windows Server 2019
+
+https://www.youtube.com/watch?v=_lI3lI2pwu4
+
 
 # Références:
 
