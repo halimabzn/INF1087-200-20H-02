@@ -31,6 +31,19 @@ Create the new VM
 PS >   New-VM -Name Win10VM -MemoryStartupBytes 4GB -BootDevice VHD -VHDPath .\VMs\Win10.vhdx -Path .\VMData -Generation 2 -Switch "Primary Virtual Switch"
 ```
 
+REMOVE VM
+
+```
+PS >  Remove-VM Win10VM
+```
+
+Remove all Data
+
+
+```
+PS > Get-ChildItem -Path .\VMData\ -Include *.* -Recurse | foreach { $_.Delete()}
+```
+
 
 
 https://docs.microsoft.com/en-us/powershell/module/hyper-v/new-vhd?view=win10-ps
