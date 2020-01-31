@@ -23,6 +23,8 @@ nat                    Internal
 
 PowerShell uses `$()` to evaluate sub-expressions
 
+https://stackoverflow.com/questions/434038/whats-the-cmd-powershell-equivalent-of-back-tick-on-bash
+
 ```
 PS >  docker rm $(docker container ls --all -q)
 ```
