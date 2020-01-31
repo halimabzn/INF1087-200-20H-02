@@ -19,3 +19,10 @@ Name                   SwitchType NetAdapterInterfaceDescription
 Primary Virtual Switch External   QLogic BCM5709C Gigabit Ethernet (NDIS VBD Client) #4
 nat                    Internal
 ```
+
+
+PowerShell uses `$()` to evaluate sub-expressions
+
+```
+PS >  docker rm $(docker container ls --all -q)
+```
