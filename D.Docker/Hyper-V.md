@@ -20,6 +20,21 @@ Primary Virtual Switch External   QLogic BCM5709C Gigabit Ethernet (NDIS VBD Cli
 nat                    Internal
 ```
 
+Create a new Disk
+
+```
+PS >  New-VHD -Path .\VMs\Win10.vhdx -Fixed -SizeBytes 1GB
+```
+Create the new VM
+
+```
+PS >   New-VM -Name Win10VM -MemoryStartupBytes 4GB -BootDevice VHD -VHDPath .\VMs\Win10.vhdx -Path .\VMData -Generation 2 -Switch "Primary Virtual Switch"
+```
+
+
+
+https://docs.microsoft.com/en-us/powershell/module/hyper-v/new-vhd?view=win10-ps
+
 
 PowerShell uses `$()` to evaluate sub-expressions
 
