@@ -56,3 +56,7 @@ https://stackoverflow.com/questions/434038/whats-the-cmd-powershell-equivalent-o
 ```
 PS >  docker rm $(docker container ls --all -q)
 ```
+
+# References
+
+https://www.altaro.com/hyper-v/
