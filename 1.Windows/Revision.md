@@ -11,7 +11,9 @@
     
     Logicel de boot de clé USB ? ([Rufus](https://github.com/CollegeBoreal/Tutoriels/tree/master/7.Microsoft/servers/ISO), UnetBooting)
     
-    Option pour booter la clé : (Partition Scheme)
+    Option pour booter la clé : 
+    
+   :pushpin: Système de fichier (Partition Scheme)
       
     * Master Boot Record [(MBR)](http://www.invoke-ir.com/2015/05/ontheforensictrail-part2.html) 
 
