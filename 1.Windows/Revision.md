@@ -133,6 +133,9 @@ https://github.com/CollegeBoreal/Tutoriels/tree/master/7.Microsoft/servers/core#
           
           
           
+# References
+
+[MBR Boot Process](https://neosmart.net/wiki/mbr-boot-process)
       
       
       
