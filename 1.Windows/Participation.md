@@ -1,18 +1,18 @@
 # Serveurs Windows
 
 
-|:hash:| :id:      | Utilisateur à remplacer | Windows Product Name                                  | Docker Engine (opt)| 
-|------|-----------|-------------------------|-------------------------------------------------------|------------------|
-| 01   | 300104524 | Brice@10.13.237.19      |:heavy_check_mark: Windows Server 2019 Datacenter :key:|:heavy_check_mark:|
-| 02   | 300104541 | Brice@10.13.237.41      |:heavy_check_mark: Windows Server 2019 Datacenter :key:|:heavy_check_mark:|
-| 03   | 300106918 | Brice@10.13.237.18      |:heavy_check_mark: Windows Server 2019 Datacenter :key:|:heavy_check_mark:|
-| 04   | 300107361 | Brice@10.13.237.99      |:heavy_check_mark: Windows Server 2019 Datacenter :key:|:heavy_check_mark:|
-| 05   | 300108234 | Brice@10.13.237.55      |:heavy_check_mark: Windows Server 2019 Datacenter :key:|:heavy_check_mark:|
-| 06   | 300110500 | Brice@10.13.237.75      |:heavy_check_mark: Windows Server 2019 Datacenter :key:|:heavy_check_mark:|
-| 07   | 300110529 | Brice@10.13.237.80      |:x: |:x:     |
-| 08   | 300111671 | Brice@10.13.237.63      |:heavy_check_mark: Windows Server 2019 Datacenter :key:|:heavy_check_mark:|
-| 09   | 300111766 | Brice@10.13.237.66      |:heavy_check_mark: Windows Server 2019 Datacenter :key:|:heavy_check_mark:|
-| 10   | 300112017 | Brice@10.13.237.60      |:heavy_check_mark: Windows Server 2019 Datacente :desktop_computer: :key: |:x:                           |
+|:hash:| :id:      | Utilisateur à remplacer | Windows Product Name (Windows Server 2019)     | OS Level | :whale: (opt)| 
+|------|-----------|-------------------------|------------------------------------------------|----------|--------------|
+| 01   | 300104524 | Brice@10.13.237.19      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 02   | 300104541 | Brice@10.13.237.41      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 03   | 300106918 | Brice@10.13.237.18      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 04   | 300107361 | Brice@10.13.237.99      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 05   | 300108234 | Brice@10.13.237.55      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 06   | 300110500 | Brice@10.13.237.75      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 07   | 300110529 | Brice@10.13.237.80      |:x: |:x:     |:x:     |
+| 08   | 300111671 | Brice@10.13.237.63      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 09   | 300111766 | Brice@10.13.237.66      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 10   | 300112017 | Brice@10.13.237.60      |:heavy_check_mark: Datacente          |  :desktop_computer: |:x:|
 | 11   | 300112917 | Brice@10.13.237.79      |:heavy_check_mark: Hyper-V Server 2019                 |:x:                           |
 | 12   | 300113775 | Brice@10.13.237.77      |:heavy_check_mark: Hyper-V Server 2019                 |:x:                           |
 |      |           |                         |                                                       |                              |
