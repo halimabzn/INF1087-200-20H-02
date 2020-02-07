@@ -64,6 +64,15 @@ WindowsProductName             OsServerLevel
 Windows Server 2019 Datacenter    ServerCore
 ```
 
+
+```
+PS > Get-ComputerInfo -Property WindowsProductName, OsServerLevel
+
+WindowsProductName   OsServerLevel
+------------------   -------------
+Hyper-V Server 2019     ServerCore
+```
+
 # Références
 
 https://pureinfotech.com/create-new-user-account-powershell-windows-10/
