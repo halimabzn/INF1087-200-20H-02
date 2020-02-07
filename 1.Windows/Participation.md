@@ -58,7 +58,7 @@ User        <SERVEUR>\Brice         Local
 
 ### :x: OS Level
 
-#### :one: ServerCore :keyboard:
+#### :keyboard: ServerCore 
 
 ```
 PS > Get-ComputerInfo -Property WindowsProductName, OsServerLevel
@@ -66,7 +66,7 @@ WindowsProductName             OsServerLevel
 ------------------             -------------
 Windows Server 2019 Datacenter    ServerCore
 ```
-#### :two: FullServer :desktop_computer:
+#### :desktop_computer: FullServer 
 
 ```
 PS > Get-ComputerInfo -Property WindowsProductName, OsServerLevel
