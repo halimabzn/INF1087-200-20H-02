@@ -58,11 +58,10 @@ User        <SERVEUR>\Brice         Local
 
 
 ```
-PS > Get-ComputerInfo -Property "WindowsProductName"
-
-WindowsProductName
-------------------
-Hyper-V Server 2019
+PS > Get-ComputerInfo -Property WindowsProductName, OsServerLevel
+WindowsProductName             OsServerLevel
+------------------             -------------
+Windows Server 2019 Datacenter    ServerCore
 ```
 
 # Références
