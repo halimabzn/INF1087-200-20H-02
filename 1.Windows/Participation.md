@@ -74,7 +74,7 @@ WindowsCurrentVersion                             : 6.3
 WindowsEditionId                                  : ServerDatacenterACor
 WindowsInstallationType                           : Server Core
 WindowsInstallDateFromRegistry                    : 1/11/2020 5:24:35 AM
-WindowsProductId                                  : 00431-40000-00000-AA833
+WindowsProductId                                  : 00000-00000-00000-00000
 WindowsProductName                                : Windows Server Datacenter
 WindowsRegisteredOrganization                     :
 WindowsRegisteredOwner                            :
