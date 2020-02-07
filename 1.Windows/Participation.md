@@ -66,11 +66,25 @@ Windows Server 2019 Datacenter    ServerCore
 
 
 ```
-PS > Get-ComputerInfo -Property WindowsProductName, OsServerLevel
+PS C:\> Get-ComputerInfo -Property Windows*, Hyper*
 
-WindowsProductName   OsServerLevel
-------------------   -------------
-Hyper-V Server 2019     ServerCore
+
+WindowsBuildLabEx                                 : 17763.1.amd64fre.rs5_release.180914-1434
+WindowsCurrentVersion                             : 6.3
+WindowsEditionId                                  : ServerDatacenterACor
+WindowsInstallationType                           : Server Core
+WindowsInstallDateFromRegistry                    : 1/11/2020 5:24:35 AM
+WindowsProductId                                  : 00431-40000-00000-AA833
+WindowsProductName                                : Windows Server Datacenter
+WindowsRegisteredOrganization                     :
+WindowsRegisteredOwner                            :
+WindowsSystemRoot                                 : C:\Windows
+WindowsVersion                                    : 1809
+HyperVisorPresent                                 : False
+HyperVRequirementDataExecutionPreventionAvailable : True
+HyperVRequirementSecondLevelAddressTranslation    : True
+HyperVRequirementVirtualizationFirmwareEnabled    : True
+HyperVRequirementVMMonitorModeExtensions          : True
 ```
 
 # Références
