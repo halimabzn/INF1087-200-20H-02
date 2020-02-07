@@ -1,6 +1,6 @@
 # Serveurs Windows
 
-<img src="images/LaboratoireWindows.png" width="" height=""></img>
+<img src="images/LaboratoireWindows.png" width="302" height="319"></img>
 
 
 |:hash:| :id:      | Utilisateur à remplacer | Windows Product Name (Windows Server 2019)  | :key: OS Level | :whale: (opt)| 
