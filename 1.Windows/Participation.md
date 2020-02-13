@@ -21,6 +21,7 @@
 | 0A   |           | Brice@10.13.237.4       |:heavy_check_mark: Datacenter |:keyboard:|:heavy_check_mark:|
 | 0B   |           | Administrator@10.13.4.242 |:heavy_check_mark: Hyper-V Server 2019        |:keyboard:|:heavy_check_mark:|
 | 0C   |           | Brice@10.13.5.47        |:heavy_check_mark: Hyper-V Server 2019          |:keyboard:|:heavy_check_mark:|
+| 0C   | 300105201 | Brice@10.13.5.52        |:heavy_check_mark: Hyper-V Server 2019          |:keyboard:|:heavy_check_mark:|
 
 |:hash:| :id:      | Utilisateur à remplacer | Windows Product Name (Windows Server 2019)  | :key: OS Level | :whale: (opt)| 
 |------|-----------|-------------------------|------------------------------------------------|----------|--------------|
