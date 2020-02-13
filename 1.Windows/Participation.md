@@ -25,7 +25,7 @@
 |:hash:| :id:      | Utilisateur à remplacer | Windows Product Name (Windows Server 2019)  | :key: OS Level | :whale: (opt)| 
 |------|-----------|-------------------------|------------------------------------------------|----------|--------------|
 | 01   | 300104524 | Brice@10.13.:x:.19      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
-| 02   | 300104541 | Brice@10.13.2.65        |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 02   | 300104541 | Brice@10.13.:x:.65        |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
 | 03   | 300106918 | Brice@10.13.5.42        |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
 | 04   | 300107361 | Brice@10.13.5.46        |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
 | 05   | 300108234 | Brice@10.13.:x:.55      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
