@@ -29,7 +29,7 @@
 | 03   | 300106918 | Brice@10.13.5.42        |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
 | 04   | 300107361 | Brice@10.13.5.46        |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
 | 05   | 300108234 | Brice@10.13.:x:.55      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
-| 06   | 300110500 | Brice@10.13.:x:.75      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 06   | 300110500 | Brice@10.13.5.49        |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
 | 07   | 300110529 | Brice@10.13.:x:.80      |:x: |:x:     |:x:     |
 | 08   | 300111671 | Brice@10.13.:x:.63      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
 | 09   | 300111766 | Brice@10.13.5.44        |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
