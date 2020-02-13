@@ -7,6 +7,10 @@
 
 ```
 PS> Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
+
+Path          :
+Online        : True
+RestartNeeded : False
 ```
 
 
