@@ -10,7 +10,7 @@ PS> Install-WindowsFeature -Name Hyper-V -IncludeManagementTools -Restart
 ```
 
 
-## Tester Hyper V
+## Tester le role Hyper V et les outils de gestion `RSAT`
 
 ```
 PS> Get-WindowsFeature *Hyper*
