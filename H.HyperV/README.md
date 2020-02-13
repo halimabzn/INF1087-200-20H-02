@@ -3,7 +3,7 @@
 ## Qu'est-ce que Hyper V
 
 
-## Installer [Hyper V](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/install-the-hyper-v-role-on-windows-server) sur Windows Server
+## Installer le role [Hyper V](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/install-the-hyper-v-role-on-windows-server) sur Windows Server
 
 ```
 PS> Install-WindowsFeature -Name Hyper-V -IncludeManagementTools -Restart
