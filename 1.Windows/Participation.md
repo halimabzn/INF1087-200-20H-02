@@ -24,18 +24,18 @@
 
 |:hash:| :id:      | Utilisateur à remplacer | Windows Product Name (Windows Server 2019)  | :key: OS Level | :whale: (opt)| 
 |------|-----------|-------------------------|------------------------------------------------|----------|--------------|
-| 01   | 300104524 | Brice@10.13.x.19      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 01   | 300104524 | Brice@10.13.:x:.19      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
 | 02   | 300104541 | Brice@10.13.2.65        |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
 | 03   | 300106918 | Brice@10.13.5.42        |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
 | 04   | 300107361 | Brice@10.13.5.46        |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
-| 05   | 300108234 | Brice@10.13.x.55      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
-| 06   | 300110500 | Brice@10.13.x.75      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
-| 07   | 300110529 | Brice@10.13.x.80      |:x: |:x:     |:x:     |
-| 08   | 300111671 | Brice@10.13.x.63      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 05   | 300108234 | Brice@10.13.:x:.55      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 06   | 300110500 | Brice@10.13.:x:.75      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
+| 07   | 300110529 | Brice@10.13.:x:.80      |:x: |:x:     |:x:     |
+| 08   | 300111671 | Brice@10.13.:x:.63      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
 | 09   | 300111766 | Brice@10.13.5.44        |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
 | 10   | 300112017 | Brice@10.13.2.68        |:heavy_check_mark: Datacenter         |  :desktop_computer:|:x:|
 | 11   | 300112917 | Brice@10.13.2.63        |:heavy_check_mark: Datacenter         |  :desktop_computer:|:x:|
-| 12   | 300113775 | Brice@10.13.x.77      |:heavy_check_mark: Datacenter         |  :desktop_computer:|:x:|
+| 12   | 300113775 | Brice@10.13.:x:.77      |:heavy_check_mark: Datacenter         |  :desktop_computer:|:x:|
 |      |           |                         |                                                |          |                  |
 | 0A   |           | Brice@10.13.237.4       |:heavy_check_mark: Datacenter |:keyboard:|:heavy_check_mark:|
 | 0B   |           | Administrator@10.13.4.242 |:heavy_check_mark: Hyper-V Server 2019        |:keyboard:|:heavy_check_mark:|
