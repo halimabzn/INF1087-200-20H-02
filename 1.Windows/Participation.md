@@ -19,7 +19,8 @@
 | 12   | 300113775 | Brice@10.13.237.77      |:heavy_check_mark: Datacenter         |  :desktop_computer:|:x:|
 |      |           |                         |                                                |          |                  |
 | 0A   |           | Brice@10.13.237.4       |:heavy_check_mark: Datacenter |:keyboard:|:heavy_check_mark:|
-| 0B   |           | Brice@10.13.5.47        |:heavy_check_mark: Hyper-V Server 2019          |:keyboard:|:heavy_check_mark:|
+| 0B   |           | Administrator@10.13.4.242 |:heavy_check_mark: Hyper-V Server 2019        |:keyboard:|:heavy_check_mark:|
+| 0C   |           | Brice@10.13.5.47        |:heavy_check_mark: Hyper-V Server 2019          |:keyboard:|:heavy_check_mark:|
 
 
 # Vérification Prof
