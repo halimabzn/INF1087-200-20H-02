@@ -1,11 +1,17 @@
 # Hyper V
 
 
-## :o: Installer Docker-Machine
+## :o: Prérequis
+
+:pushpin: Installer Docker-Machine
 
 ```
 PS> choco install docker-machine
 ```
+
+:pushpin: Installer Hyper-V
+
+Voir [HyperV](../H.HyperV)
 
 
 ## :zero: Create Virtual Switch
