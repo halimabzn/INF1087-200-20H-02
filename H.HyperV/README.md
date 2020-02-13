@@ -5,6 +5,9 @@
 
 ## Installer [Hyper V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 
+```
+PS> Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
+```
 
 
 ## Tester Hyper V
