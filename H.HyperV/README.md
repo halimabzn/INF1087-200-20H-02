@@ -8,6 +8,16 @@
 
 ## Tester Hyper V
 
+```
+PS> Get-WindowsFeature *Hyper*
+
+Display Name                                            Name                       Install State
+------------                                            ----                       -------------
+[X] Hyper-V                                             Hyper-V                        Installed
+        [X] Hyper-V Management Tools                    RSAT-Hyper-V-Tools             Installed
+            [X] Hyper-V Module for Windows PowerShell   Hyper-V-PowerShell             Installed
+```
+
 
 ```
 PS> Get-Module -ListAvailable *Hyper*
