@@ -42,3 +42,23 @@ Binary     1.1        Hyper-V                             {Add-VMDvdDrive, Add-V
 ```
 PS> Get-Command -Module Hyper-V
 ```
+
+
+### :x: Installer les modules individuellement (optionnel)
+
+```
+PS> Install-WindowsFeature -Name Hyper-V-PowerShell
+ 
+# Install Hyper-V Manager and the PowerShell module (HVM only available on GUI systems)
+Install-WindowsFeature -Name RSAT-Hyper-V-Tools
+ 
+# Install the Hyper-V hypervisor and all tools (method #1)
+Install-WindowsFeature -Name Hyper-V -IncludeManagementTools
+ 
+# Install the Hyper-V hypervisor and all tools (method #2)
+Install-WindowsFeature -Name Hyper-V, RSAT-Hyper-V-Tools
+```
+
+# References
+
+https://www.altaro.com/hyper-v/install-hyper-v-powershell-module/
