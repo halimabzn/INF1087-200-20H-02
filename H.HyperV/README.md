@@ -36,3 +36,9 @@ Binary     2.0.0.0    Hyper-V                             {Add-VMAssignableDevic
 Binary     1.1        Hyper-V                             {Add-VMDvdDrive, Add-VMFibreChannelHba, Add-VMHardDiskDr...
 
 ```
+
+## Voir les commandes Powershell pour le role Hyper V
+
+```
+PS> Get-Command -Module Hyper-V
+```
