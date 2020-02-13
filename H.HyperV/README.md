@@ -3,14 +3,10 @@
 ## Qu'est-ce que Hyper V
 
 
-## Installer [Hyper V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
+## Installer [Hyper V](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/install-the-hyper-v-role-on-windows-server) sur Windows Server
 
 ```
-PS> Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
-
-Path          :
-Online        : True
-RestartNeeded : False
+PS> Install-WindowsFeature -Name Hyper-V -IncludeManagementTools -Restart
 ```
 
 
