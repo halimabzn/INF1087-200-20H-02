@@ -35,14 +35,14 @@ vEthernet (nat)           Hyper-V Virtual Ethernet Adapter             12 Up    
 ...
 ```
 
-:pushpin: Creer la Sitch Virtuelle pour le drive HyperV
+:pushpin: Creer la Switch Virtuelle pour le driver HyperV
 
 ```
 PS> $net = Get-NetAdapter -Name 'Ethernet'
 PS> New-VMSwitch -Name "Primary Virtual Switch" -AllowManagementOS $True -NetAdapterName $net.Name
 ```
 
-## :one: Create VM
+## :one: Créer sa VM
 
 
 ```
@@ -50,7 +50,7 @@ PS> docker-machine create --driver hyperv CB-HYPERV
 ```
 
 
-## :two: Activate VM
+## :two: Activer sa VM
 
 ```
 PS> docker-machine env CB-HYPERV | Invoke-Expression
