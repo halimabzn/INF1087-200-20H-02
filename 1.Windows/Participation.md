@@ -14,7 +14,7 @@
 | 07   | 300110529 | Brice@10.13.237.80      |:heavy_check_mark: Datacenter         |  :desktop_computer:|:x:|
 | 08   | 300111671 | Brice@10.13.237.63      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
 | 09   | 300111766 | Brice@10.13.237.66      |:heavy_check_mark: Datacenter                   |:keyboard:|:heavy_check_mark:|
-| 10   | 300112017 | Brice@10.13.237.60      |:heavy_check_mark: Datacenter         |  :desktop_computer:|:x:|
+| 10   | 300112017 | Brice@10.13.237.60      |:heavy_check_mark: Datacenter         |  :desktop_computer:|:heavy_check_mark:|
 | 11   | 300112917 | Brice@10.13.237.79      |:heavy_check_mark: Datacenter         |  :desktop_computer:|:x:|
 | 12   | 300113775 | Brice@10.13.237.77      |:heavy_check_mark: Datacenter         |  :desktop_computer:|:x:|
 |      |           |                         |                                                |          |                  |
