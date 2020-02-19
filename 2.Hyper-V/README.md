@@ -38,7 +38,7 @@ vEthernet (nat)           Hyper-V Virtual Ethernet Adapter             12 Up    
 :pushpin: Creer la Switch Virtuelle pour le driver HyperV
 
 ```
-PS> $net = Get-NetAdapter -Name 'Ethernet'
+PS> $net = Get-NetAdapter -Name 'Ethernet 2'
 PS> New-VMSwitch -Name "Primary Virtual Switch" -AllowManagementOS $True -NetAdapterName $net.Name
 ```
 
