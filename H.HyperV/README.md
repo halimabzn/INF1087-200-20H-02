@@ -3,14 +3,14 @@
 ## Qu'est-ce que Hyper V
 
 
-## Installer le role [Hyper V](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/install-the-hyper-v-role-on-windows-server) sur Windows Server
+## :one: Installer le role [Hyper V](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/install-the-hyper-v-role-on-windows-server) sur Windows Server
 
 ```
 PS> Install-WindowsFeature -Name Hyper-V -IncludeManagementTools -Restart
 ```
 
 
-## Tester le role Hyper V et les outils de gestion `RSAT`
+### :pushpin: Tester le role Hyper V et les outils de gestion `RSAT`
 
 ```
 PS> Get-WindowsFeature *Hyper*
@@ -20,6 +20,21 @@ Display Name                                            Name                    
 [X] Hyper-V                                             Hyper-V                        Installed
         [X] Hyper-V Management Tools                    RSAT-Hyper-V-Tools             Installed
             [X] Hyper-V Module for Windows PowerShell   Hyper-V-PowerShell             Installed
+```
+
+### :pushpin: Installer les modules individuellement (Si non installé par la commande globale)
+
+```
+PS> Install-WindowsFeature -Name Hyper-V-PowerShell
+ 
+PS> # Install Hyper-V Manager and the PowerShell module (HVM only available on GUI systems)
+PS> Install-WindowsFeature -Name RSAT-Hyper-V-Tools
+ 
+PS> # Install the Hyper-V hypervisor and all tools (method #1)
+PS> Install-WindowsFeature -Name Hyper-V -IncludeManagementTools
+ 
+PS> # Install the Hyper-V hypervisor and all tools (method #2)
+PS> Install-WindowsFeature -Name Hyper-V, RSAT-Hyper-V-Tools
 ```
 
 
@@ -44,20 +59,6 @@ PS> Get-Command -Module Hyper-V
 ```
 
 
-### :x: Installer les modules individuellement (optionnel)
-
-```
-PS> Install-WindowsFeature -Name Hyper-V-PowerShell
- 
-PS> # Install Hyper-V Manager and the PowerShell module (HVM only available on GUI systems)
-PS> Install-WindowsFeature -Name RSAT-Hyper-V-Tools
- 
-PS> # Install the Hyper-V hypervisor and all tools (method #1)
-PS> Install-WindowsFeature -Name Hyper-V -IncludeManagementTools
- 
-PS> # Install the Hyper-V hypervisor and all tools (method #2)
-PS> Install-WindowsFeature -Name Hyper-V, RSAT-Hyper-V-Tools
-```
 
 # References
 
