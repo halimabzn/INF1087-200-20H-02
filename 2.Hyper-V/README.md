@@ -55,3 +55,7 @@ PS> docker-machine create --driver hyperv CB-HYPERV
 ```
 PS> docker-machine env CB-HYPERV | Invoke-Expression
 ```
+
+# References
+
+https://docs.docker.com/machine/drivers/hyper-v/
